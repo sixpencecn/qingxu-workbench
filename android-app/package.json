@@ -1,0 +1,16 @@
+{
+  "name": "qingxu-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "轻序个人综合管理工作台 Android 安装包",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/core": "^6.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.1"
+  }
+}

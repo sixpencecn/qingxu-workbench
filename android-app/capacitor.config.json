@@ -1,0 +1,10 @@
+{
+  "appId": "com.qingxu.workbench",
+  "appName": "轻序",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "http",
+    "allowNavigation": ["*"]
+  },
+  "plugins": {}
+}
